@@ -19,4 +19,4 @@ while True:
         print("Touched A6!")
     if cpx.touch_A7:
         print("Touched A7!")
-    time.sleep(0.1)
+    time.sleep(0.5)
